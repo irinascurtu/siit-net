@@ -24,7 +24,8 @@ h) Day of week
 8. Write a program to calculate two date difference in seconds
 
 9. Given a date of birth, calculate the age of a person.
-       ``` 
+      
+      ``` 
         Input: 10, 09, 1989 
         Output: 29
         ```
