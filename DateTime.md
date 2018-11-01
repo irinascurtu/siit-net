@@ -34,9 +34,10 @@ h) Day of week
         
 11. Write a program to calculate a number of days between two dates.
 12. Write a program to print yesterday, today, tomorrow.
-      ```  Yesterday :  2017-05-05                                                                                       
-        Today :  2017-05-06                                                                                           
-        Tomorrow :  2017-05-0
+      ``` 
+      Yesterday :  2017-05-05 
+      Today :  2017-05-06                  
+      Tomorrow :  2017-05-0
       ```
 
 10. Write program to print next 5 days starting from today.
