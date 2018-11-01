@@ -31,4 +31,5 @@ Example: in the range (14, 25) there are 3 such numbers: 15, 20 and 25.
 
    Input 2:
    Output: **
+   
            **
