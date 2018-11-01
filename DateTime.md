@@ -9,21 +9,21 @@ f) Day of year
 g) Day of the month
 h) Day of week
 
-2.Write a program to add year(s) with a given date and display the new date.
+2. Write a program to add year(s) with a given date and display the new date.
 
-3.Write a program to display the date and time in a human-friendly string
+3. Write a program to display the date and time in a human-friendly string
 
-4.Write a program to add 5 seconds to the current time and print it to the console
+4. Write a program to add 5 seconds to the current time and print it to the console
 
-5.Write a program to get current time in milliseconds.
+5. Write a program to get current time in milliseconds.
 
-6.Write a program that calculates the date six months from the current date
+6. Write a program that calculates the date six months from the current date
 
-7.Write a program to get the first and last second of a day.
+7. Write a program to get the first and last second of a day.
 
-8.Write a program to calculate two date difference in seconds
+8. Write a program to calculate two date difference in seconds
 
-9.Given a date of birth, calculate the age of a person.
+9. Given a date of birth, calculate the age of a person.
         Input: 10, 09, 1989
         Output: 29
         Write a program to get the dates 30 days before and after from the current date
