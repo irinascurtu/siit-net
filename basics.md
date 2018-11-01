@@ -26,7 +26,9 @@ Example: in the range (14, 25) there are 3 such numbers: 15, 20 and 25.
 12 Write program that outputs a triangle made of stars with variable size, depending on an input parameter. Look at the examples to get an idea.
   The input comes as a string number, which needs to be parsed to a number.
   The output is a series of lines printed on the console, forming a triangle of variable size.
+  
   Input: 1
+  
   Output *
 
    Input 2:
