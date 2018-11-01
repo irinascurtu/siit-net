@@ -1,9 +1,9 @@
 # Conditional statements and loops
-Write a program that reads from the console three numbers of type int and prints their sum. 
+1. Write a program that reads from the console three numbers of type int and prints their sum. 
 
-Write a program that reads from the console the radius "r" of a circle and prints its perimeter and area.
+2. Write a program that reads from the console the radius "r" of a circle and prints its perimeter and area.
 
-Write a program that reads from the console two integer numbers (int) and prints how many numbers between them exist, such that the remainder of their division by 5 is 0. 
+3. Write a program that reads from the console two integer numbers (int) and prints how many numbers between them exist, such that the remainder of their division by 5 is 0. 
 
 Example: in the range (14, 25) there are 3 such numbers: 15, 20 and 25.
 
