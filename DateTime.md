@@ -25,9 +25,9 @@ h) Day of week
 
 9. Given a date of birth, calculate the age of a person.
        ``` 
-        Input: 10, 09, 1989        
+        Input: 10, 09, 1989 
         Output: 29
-       7```
+        ```
         
 10. Write a program to get the dates 30 days before and after from the current date
         
