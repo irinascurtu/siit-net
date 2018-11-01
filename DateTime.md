@@ -25,14 +25,18 @@ h) Day of week
 
 9. Given a date of birth, calculate the age of a person.
        ``` 
-        Input: 10, 09, 1989
+        Input: 10, 09, 1989        
         Output: 29
-        Write a program to get the dates 30 days before and after from the current date
-        Write a program to calculate a number of days between two date
-        Write a program to print yesterday, today, tomorrow.
-        Yesterday :  2017-05-05                                                                                       
+       7```
+        
+10. Write a program to get the dates 30 days before and after from the current date
+        
+11. Write a program to calculate a number of days between two dates.
+12. Write a program to print yesterday, today, tomorrow.
+      ```  Yesterday :  2017-05-05                                                                                       
         Today :  2017-05-06                                                                                           
-        Tomorrow :  2017-05-07```
+        Tomorrow :  2017-05-0
+      ```
 
 10. Write program to print next 5 days starting from today.
 
