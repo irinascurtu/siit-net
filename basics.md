@@ -27,17 +27,12 @@ Example: in the range (14, 25) there are 3 such numbers: 15, 20 and 25.
   The input comes as a string number, which needs to be parsed to a number.
   The output is a series of lines printed on the console, forming a triangle of variable size.
   
-  Input: 1
-  
-  Output *
-
-   Input 2:
-   
-   Output: 
-   
-   **
-   
-   **
+   'Input: 1  
+   Output *
+   Input 2:   
+   Output:    
+   **   
+   **'
   13. A program which iterates the integers from 1 to 50 
 For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". 
 For numbers which are multiples of both three and five print "FizzBuzz".
