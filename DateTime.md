@@ -24,7 +24,7 @@ h) Day of week
 8. Write a program to calculate two date difference in seconds
 
 9. Given a date of birth, calculate the age of a person.
-        Input: 10, 09, 1989
+       ``` Input: 10, 09, 1989
         Output: 29
         Write a program to get the dates 30 days before and after from the current date
         Write a program to calculate a number of days between two date
@@ -32,6 +32,7 @@ h) Day of week
         Yesterday :  2017-05-05                                                                                       
         Today :  2017-05-06                                                                                           
         Tomorrow :  2017-05-07 
+```
 
 10. Write program to print next 5 days starting from today.
 
