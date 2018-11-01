@@ -32,7 +32,8 @@ Example: in the range (14, 25) there are 3 such numbers: 15, 20 and 25.
    Input 2:   
    Output:    
    **   
-   **```
+   **
+   ```
    
   13. A program which iterates the integers from 1 to 50 
 For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". 
