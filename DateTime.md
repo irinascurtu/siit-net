@@ -31,8 +31,7 @@ h) Day of week
         Write a program to print yesterday, today, tomorrow.
         Yesterday :  2017-05-05                                                                                       
         Today :  2017-05-06                                                                                           
-        Tomorrow :  2017-05-07 
-```
+        Tomorrow :  2017-05-07```
 
 10. Write program to print next 5 days starting from today.
 
