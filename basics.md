@@ -43,6 +43,7 @@ For multiples of three print "Fizz" instead of the number and for the multiples 
 For numbers which are multiples of both three and five print "FizzBuzz".
 
 Output : 
+
 fizzbuzz
 
 1
