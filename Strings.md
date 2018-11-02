@@ -1,5 +1,5 @@
 # Strings
-## 1. Middle Characther
+###1. Middle Characther
 
 Input
 
