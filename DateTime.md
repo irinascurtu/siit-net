@@ -25,7 +25,7 @@ j) if the current year is a leap year or not
 
 7. Write a program to get the first and last second of a day.
 
-8*. Write a program to calculate two date difference in seconds.
+*8. Write a program to calculate two date difference in seconds.
 
 9. Given a date of birth, calculate the age of a person.
       
@@ -48,14 +48,14 @@ j) if the current year is a leap year or not
 
 10. Write program to print next 5 days starting from today.
 
-11*. Write a program to find the date of the first Monday of a given week
+*11. Write a program to find the date of the first Monday of a given week
         ```
       Input  : 2015, 50
       Output : Mon Dec 14 00:00:00 2015
       
       ```
   
-12*. Write a program to get days between two dates.
+*12. Write a program to get days between two dates.
   ```
       Input :  
       2000,2,2
@@ -63,7 +63,7 @@ j) if the current year is a leap year or not
       Output : 366 days, 0:00:00
   ```
     
-13*. Write a program to select all the Sundays of a specified year and display their dates
+*13. Write a program to select all the Sundays of a specified year and display their dates
   
   ```
       Output:
