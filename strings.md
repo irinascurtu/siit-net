@@ -25,3 +25,36 @@ Write a method that transforms to lowercase first n characters in a string
 Write a method to capitalize first and last letters of each word of a given string.
 
 Write a method to compute sum of digits of a given string(if any).
+
+You will get a text from where you will need to clean the text because it contains a lot of strange
+characters that don’t belong there ( ^ <, > &+ @%$)
+```
+Input:
+Hi^>there<<I’m+ telling%%you, you &need% to$ do& your $homeworks. @Hate ^me^ %now% and %thank% me &later.
+Output:
+Hi there I’m telling you, you need to do your homeworks. Hate me now and thank me later.
+```
+
+##Ing, ly
+Write a method to add 'ing' at the end of a given string (length should be at least 3). If the given string already ends with 'ing' then add 'ly' instead. If the string length of the given string is less than 3, leave it unchanged.
+```
+Input : 'abc'
+Output : 'abcing' 
+Input : 'string'
+Output: 'stringly'
+```
+## Obfucate Email
+You have some text that contains your email address. And you want to hide that. You decide to censor
+your email: to replace all characters in it with asterisks ('*') except the domain.
+Assume your email address will always be in format [username]@[domain]. You need to replace the
+username with asterisks of equal number of letters and keep the domain unchanged.
+You will get as input the email address you need to obfuscate
+
+```
+Input: awesome@dotnet.com
+Output: *******@dotnet.com
+```
+
+
+
+
