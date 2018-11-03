@@ -53,9 +53,11 @@ h) Day of week
       
       ```
   
-12. Write a program to get days between two dates.
+12*. Write a program to get days between two dates.
   ```
-      Input :  2000,2,2 - 2001,2,28
+      Input :  
+      2000,2,2
+      2001,2,28
       Output : 366 days, 0:00:00
   ```
     
