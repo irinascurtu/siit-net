@@ -29,10 +29,10 @@ j) if the current year is a leap year or not
 
 9. Given a date of birth, calculate the age of a person.
       
-      ``` 
+``` 
         Input: 10, 09, 1989 
         Output: 29
-        ```
+```
 
 Note: Requires parsing a string to make it a date. Get to me on slack to give you resources for this.
   
@@ -51,10 +51,10 @@ Note: Requires parsing a string to make it a date. Get to me on slack to give yo
 
 *11. Write a program to find the date of the first Monday of a given week
      
-     ```
+```
       Input  : 2015, 50
       Output : Mon Dec 14 00:00:00 2015      
-      ```
+```
   
 *12. Write a program to get days between two dates.
   ```
@@ -66,10 +66,10 @@ Note: Requires parsing a string to make it a date. Get to me on slack to give yo
     
 *13. Write a program to select all the Sundays of a specified year and display their dates
   
-  ```
+```
       Output:
       2020-01-05                                                                                                    
       2020-01-12                                                                                                    
       2020-01-19
-  ```
+```
   
