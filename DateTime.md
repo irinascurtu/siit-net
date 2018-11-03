@@ -68,8 +68,8 @@ Note: Requires parsing a string to make it a date. Get to me on slack to give yo
   
 ```
       Output:
-      2020-01-05                                                                                                    
-      2020-01-12                                                                                                    
+      2020-01-05
+      2020-01-12 
       2020-01-19
 ```
   
