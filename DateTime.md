@@ -33,14 +33,16 @@ j) if the current year is a leap year or not
         Input: 10, 09, 1989 
         Output: 29
         ```
-  Note: Requires parsing a string to make it a date. Get to me on slack to give you resources for this.
+
+Note: Requires parsing a string to make it a date. Get to me on slack to give you resources for this.
   
 10. Write a program to get the dates 30 days before and after from the current date, and display it to the console
         
 11. Write a program to calculate a number of days between two dates.
 
 12. Write a program to print yesterday, today, tomorrow.
-      ``` 
+     
+     ``` 
       Yesterday :  2017-05-05 
       Today :  2017-05-06                  
       Tomorrow :  2017-05-0
@@ -49,10 +51,10 @@ j) if the current year is a leap year or not
 10. Write program to print next 5 days starting from today.
 
 *11. Write a program to find the date of the first Monday of a given week
-        ```
+     
+     ```
       Input  : 2015, 50
-      Output : Mon Dec 14 00:00:00 2015
-      
+      Output : Mon Dec 14 00:00:00 2015      
       ```
   
 *12. Write a program to get days between two dates.
