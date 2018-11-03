@@ -19,7 +19,7 @@ j) if the current year is a leap year or not
 
 4. Write a program to add 5 seconds to the current time and print it to the console.
 
-5. Write a program to get current time in milliseconds.
+5*. Write a program to get current time in milliseconds.
 
 6. Write a program that calculates the date six months from the current date.
 
