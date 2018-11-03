@@ -14,9 +14,9 @@ j) if the current year is a leap year or not
   
 2. Write a program to add N year(s) to the current date and display the new date.
 
-3. Write a program to display the date and time in a human-friendly string
+3. Write a program to display the date and time in a human-friendly string.
 
-4. Write a program to add 5 seconds to the current time and print it to the console
+4. Write a program to add 5 seconds to the current time and print it to the console.
 
 5* Write a program to get current time in milliseconds.
 
