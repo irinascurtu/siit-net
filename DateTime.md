@@ -9,6 +9,7 @@ e) Weekday of the week
 f) Day of year
 g) Day of the month
 h) Day of week
+j) if the current year is a leap year or not
   ```
   
 2. Write a program to add N year(s) to the current date and display the new date.
@@ -19,11 +20,11 @@ h) Day of week
 
 5* Write a program to get current time in milliseconds.
 
-6. Write a program that calculates the date six months from the current date
+6. Write a program that calculates the date six months from the current date.
 
 7. Write a program to get the first and last second of a day.
 
-8*. Write a program to calculate two date difference in seconds
+8*. Write a program to calculate two date difference in seconds.
 
 9. Given a date of birth, calculate the age of a person.
       
