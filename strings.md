@@ -26,6 +26,7 @@ Write a method to capitalize first and last letters of each word of a given stri
 
 Write a method to compute sum of digits of a given string(if any).
 
+## Clean the text
 You will get a text from where you will need to clean the text because it contains a lot of strange
 characters that don’t belong there ( ^ <, > &+ @%$)
 ```
@@ -35,7 +36,7 @@ Output:
 Hi there I’m telling you, you need to do your homeworks. Hate me now and thank me later.
 ```
 
-##Ing, ly
+## Ing, ly
 Write a method to add 'ing' at the end of a given string (length should be at least 3). If the given string already ends with 'ing' then add 'ly' instead. If the string length of the given string is less than 3, leave it unchanged.
 ```
 Input : 'abc'
