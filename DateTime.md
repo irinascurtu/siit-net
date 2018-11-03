@@ -1,5 +1,6 @@
 # Datetime
 1. Write a program to display the:
+
   ```
 a) Current date and time
 b) Current year
@@ -10,8 +11,7 @@ f) Day of year
 g) Day of the month
 h) Day of week
 j) if the current year is a leap year or not
-  ```
-  
+  ```  
 2. Write a program to add N year(s) to the current date and display the new date.
 
 3. Write a program to display the date and time in a human-friendly string.
