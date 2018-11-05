@@ -74,5 +74,22 @@ Sample String : 'restart'
 Expected Result : 'resta$t'
 ```
 
+- Write a method to get a single string from two given strings, separated by a space and swap the first two characters of each string.
+```
+Input: 'abc', 'xyz' 
+Output: 'xyc abz'
+```
+- Write a method to find the first appearance of the substring 'not' and 'poor' from a given string, if 'not' follows the 'poor', replace the whole 'not'...'poor' substring with 'good'. Return the resulting string.
+
+```
+Input: 'The lyrics is not that poor!'
+Output : 'The lyrics is poor!'
+Input  : 'The lyrics is good!'
+Output : 'The lyrics is poor!'
+
+```
+- Write a method that takes a list of words and returns the length of the longest one. 
+
+
 
 
