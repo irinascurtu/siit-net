@@ -8,7 +8,7 @@ Make an application where to model a animals keeping in mind that:
 - depending on the way they move, they have a maximum speed.
 - there are animals that can swim and walk (Ornitoric)
 - there are animals that can swim, fly and walk (Wild Duck)
-- Not any animal that can fly is a bird, Lillac is a mammal that flys, and not evey bird flys - the ostrich is a bird but doesn't fly 
+- Not any animal that can fly is a bird, the bat is a mammal that flys, and not evey bird flys - the ostrich is a bird but doesn't fly 
 
 ## 2.
 Model the Rabbit class knowing that:
