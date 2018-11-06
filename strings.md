@@ -92,12 +92,19 @@ Output : 'The lyrics is poor!'
  Write a method that takes a list of words and returns the length of the longest one. 
 
 ## Last Part
-Write a Python program to get the last part of a string before a specified character.
+Write a method to get the last part of a string before a specified character.
 ```
 Input :  https://www.siit.com/net-exercises
          -
 Output:  https://www.siit.com/net
 ```
+
+ - Write a method to check whether a string starts with specified characters
+ ```
+ input: awesome string
+        a
+ output : Yes, starts with a
+ ```
 
 
 
