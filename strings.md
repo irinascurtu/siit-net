@@ -88,7 +88,15 @@ Input  : 'The lyrics is good!'
 Output : 'The lyrics is poor!'
 
 ```
-- Write a method that takes a list of words and returns the length of the longest one. 
+## Longest word
+ Write a method that takes a list of words and returns the length of the longest one. 
+
+## Last Part
+Write a Python program to get the last part of a string before a specified character.
+```
+Input :  https://www.siit.com/net-exercises
+Output:  https://www.siit.com/net
+```
 
 
 
