@@ -112,4 +112,9 @@ Output:  https://www.siit.com/net
         ala
  output : 3
  ```
-
+ 
+- Write a method to swap comma and dot in a string. 
+```
+Input: "32.054,23"
+Output: "32,054.23"
+```
