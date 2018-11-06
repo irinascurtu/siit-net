@@ -106,6 +106,10 @@ Output:  https://www.siit.com/net
  output : Yes, starts with a
  ```
 
-
-
+-  Write a method to count occurrences of a substring in a string
+ ```
+ input: alabala portocala
+        ala
+ output : 3
+ ```
 
