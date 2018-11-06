@@ -1,4 +1,8 @@
 # OOP
+### Descriptions
+these problems have as a goal to model the requested functionality, but also to provide the simplest and cleanest implementations.
+Keep an eye on naming and data types
+
 ## 1. 
 Make an application where to model a animals keeping in mind that:
 - any kind you model is an animal
