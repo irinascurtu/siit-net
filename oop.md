@@ -1,13 +1,14 @@
 # OOP
 ## 1. 
-Realizati o aplicatie consola in care sa modelati regnul animal tinand cont de urmatoarele afirmatii:
-- orice vietate este un animal
-- orice animal are un nume
-- exista mai multe categorii de animale: mamifere, pasari, reptile, pesti, insecte
-- indiferent de categoria din care fac parte, animalele se deplaseaza: zboara, merg, inoata, se tarasc.
-- in functie de modul in care se deplaseaza au o viteza maxima de deplasare
-- exista animale care pot sa inoate si sa mearga (Ornitoric) sau care pot sa inoate, sa zboara si sa mearga (Rata salbatica)
-- nu orice animal care zboara e o pasare - liliacul este un mamifer care zboara. Si nu orice pasare zboara - strutul este o pasare dar nu zboara
+Make an application where to model a animals keeping in mind that:
+- any kind you model is an animal
+- any animal has a name
+- there are multiple animal categories like : mammals, fish, birds, reptile, insects
+- no matter the category, animal are : flying, walking, swim or crawl.
+- depending on the way they move, they have a maximum speed.
+- there are animals that can swim and walk (Ornitoric)
+- there are animals that can swim, fly and walk (Wild Duck)
+- Not any animal that can fly is a bird, Lillac is a mammal that flys, and not evey bird flys - the ostrich is a bird but doesn't fly 
 
 ## 2.
 Model the Rabbit class knowing that:
