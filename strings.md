@@ -118,3 +118,4 @@ Output:  https://www.siit.com/net
 Input: "32.054,23"
 Output: "32,054.23"
 ```
+- Write a method to remove spaces from a given string.
