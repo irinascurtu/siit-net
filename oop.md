@@ -34,7 +34,7 @@ Model the Product class knowing that:
    
    ## Alergies
    
-   Given a person's allergy score, determine whether or not they're allergic to a given item, and their full list of allergies.
+Given a person's allergy score, determine whether or not they're allergic to a given item, and their full list of allergies.
 
 An allergy test produces a single numeric score which contains the information about all the allergies the person has (that they were tested for).
 
@@ -48,7 +48,8 @@ tomatoes (16)
 chocolate (32)
 pollen (64)
 cats (128)
-So if Tom is allergic to peanuts and chocolate, he gets a score of 34.
+
+So if Tom is allergic to peanuts and chocolate, he gets a score of 34 (2 - from peanuts + 32 from chocholate)
 
 Now, given just that score of 34, your program should be able to say:
 
