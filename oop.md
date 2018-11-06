@@ -32,7 +32,7 @@ Model the Product class knowing that:
    4. bread expires in 4 days
    
    
-   ## Alergies
+## Alergies
    
 Given a person's allergy score, determine whether or not they're allergic to a given item, and their full list of allergies.
 
