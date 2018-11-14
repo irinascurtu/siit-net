@@ -119,3 +119,7 @@ Input: "32.054,23"
 Output: "32,054.23"
 ```
 - Write a method to remove spaces from a given string.
+
+## Palindrome
+ Check if a string is palindrome (same value read from left to right and right to left)
+ Ex: alabala -> True
