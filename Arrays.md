@@ -27,3 +27,8 @@
  
  - Write a program to find the second smallest element in an array.
  
+
+## TODO saturday 
+- Write a program for a 2D array of size 3x3 and print the matrix.
+
+- Write a program in C# Sharp for addition of two Matrices of same size
