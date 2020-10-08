@@ -88,6 +88,11 @@ It should be possible to close an account; operations against a closed account m
 
 Remember you are working with money so you should use an appropriate data type for it.
 
+Now you're asked to implement an economy account.
+We know that an economy account is similar to a normal bank account,
+ but on each deposit gives you 0.01% extra to the deposited sum,
+and on withdrawals takes 0.02% from the withdrawed amount.
+
 ## Pig Latin
 Implement a program that translates from English to Pig Latin.
 
