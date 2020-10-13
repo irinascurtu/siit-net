@@ -93,6 +93,12 @@ We know that an economy account is similar to a normal bank account,
  but on each deposit gives you 0.01% extra to the deposited sum,
 and on withdrawals takes 0.02% from the withdrawed amount.
 
+- Now you want to have a secret account from where you are buying wine or purses.
+When you make deposits , the deposit is made in an normal account. You can't make withdrawals in october.
+- Now you need to introduce a new account called GameAccount, that you will use online. This account can't make withdrawals, only deposits
+
+-Since you have so many types of accounts, with different purposes, you need to find a way to extract the common behavior
+
 ## Pig Latin
 Implement a program that translates from English to Pig Latin.
 
